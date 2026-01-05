@@ -133,6 +133,7 @@ Subscribe [here](#) to receive your copy once released.
 
 - **LinkedIn:** [Victor Benvenuto](https://www.linkedin.com/in/victor-benvenuto)  
 - **YouTube:** [MrB](https://www.youtube.com/@MrB)  
+- **Email:** [vbenvenuto.it@hotmail.com](mailto:vbenvenuto.it@hotmail.com)
 
 ---
 
