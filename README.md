@@ -112,20 +112,20 @@ By the end of the 45 days, you won’t just know cybersecurity — **you’ll pr
 
 | Topic | Registration |
 |-------|--------------|
-| Introduction to Cyber Security | [Register Now](#) |
-| Introduction to CompTIA A+ | [Register Now](#) |
-| Introduction to Computer Science for Teachers | [Register Now](#) |
-| Hour of Code with Mr. B! | [Register Now](#) |
-| Cybersecurity Career Roadmap | [Register Now](#) |
-| Introduction to Code.org for Teachers | [Register Now](#) |
-| Introduction to Cyber Range - Hand’s on Lab Activity  | [Register Now](#) |
+| Introduction to Cyber Security | [Register Now](https://tinyurl.com/register-with-mrbcte) |
+| Introduction to CompTIA A+ | [Register Now](https://tinyurl.com/register-with-mrbcte) |
+| Introduction to Computer Science for Teachers | [Register Now](https://tinyurl.com/register-with-mrbcte) |
+| Hour of Code with Mr. B! | [Register Now](https://tinyurl.com/register-with-mrbcte) |
+| Cybersecurity Career Roadmap | [Register Now](https://tinyurl.com/register-with-mrbcte) |
+| Introduction to Code.org for Teachers | [Register Now](https://tinyurl.com/register-with-mrbcte) |
+| Introduction to Cyber Range - Hand’s on Lab Activity  | [Register Now](https://tinyurl.com/register-with-mrbcte) |
 
 ---
 
 ## 📘 Books
 
 📖 **Free Cybersecurity Book — Coming 2026**  
-Subscribe [here](#) to receive your copy once released.
+Subscribe [here](https://tinyurl.com/register-with-mrbcte) to receive your copy once released.
 
 ---
 
